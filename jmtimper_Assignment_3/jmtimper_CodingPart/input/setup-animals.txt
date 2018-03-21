@@ -1,0 +1,8 @@
+edge(bird, isa, animal)
+edge(fish, isa, animal)
+edge(penguin, ako, bird)
+edge(canary, ako, bird)
+edge(Opus, isa, penguin)
+edge(Tweety, isa, canary)
+edge(Robin, isa, canary)
+edge(Nemo, isa, fish)
